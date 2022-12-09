@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Hello, Джон!");
+Console.WriteLine("Hello, Джон... изменения для конфликта!");
